@@ -1,0 +1,17 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "Practice Building React Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Breg Bromley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
